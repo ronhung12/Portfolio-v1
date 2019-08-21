@@ -41,8 +41,8 @@ class Resume extends React.Component {
                         overflowY: 'hidden'}}>
                         <br/>
                         <h4 style={{margin: 0}}>Ronald Hung</h4>
-                        <h5 style={{margin: 0}}>132 Lenox Avenue, Green Brook, NJ 08812</h5>
-                        <h5 style={{margin: 0}}>ron.h.hung@gmail.com (732)-318-1571</h5>
+                        <h5 style={{margin: 0}}>Green Brook, NJ 08812</h5>
+                        <h5 style={{margin: 0}}>ron.h.hung@gmail.com</h5>
                         <h5 style={{margin: 0}}>https://github.com/ronhung12</h5>
                         <br/>
                         <Divider/>

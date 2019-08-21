@@ -10,7 +10,7 @@ function Biography(){
                 <h1>Ronald Hung</h1>
                 <h2>Software Engineer</h2>
                 <section>
-                    <p style={{minWidth: '300px', marginRight: '10px'}}>{biography}</p>
+                    <p style={{minWidth: '300px', marginRight: '10px', wordSpacing: 'normal', textAlign: 'left'}}>{biography}</p>
                     <section>
                         <a href="https://www.instagram.com/ron.sauce/">
                             <FontAwesomeIcon icon={['fab', 'instagram']} size='3x' color="#6999B7"/>
@@ -37,6 +37,6 @@ function Biography(){
 
 export default Biography;
 
-const biography = "I'm a full-stack software engineer specializing in front-end development for complex scalable web apps." +
-    " I graduated from Fordham University in 2018 and currently work as a software development consultant." +
-    " Check out my project portfolio and online resume. Feel free to contact me if you have any questions.";
+const biography = "I'm a full-stack software engineer specializing in front-end development for complex scalable web applications." +
+    " I graduated from Fordham University with a B.S. in Computer Science/Bioinformatics and currently work as a software development consultant. I enjoy tackling complex problems with innovative solutions and creating the best user experience in terms of visual design and performance."
++ " I always strive to learn new technologies and add them to my skill set and repertoire. Check out my project portfolio and online resume. Feel free to contact me if you have any questions.";
