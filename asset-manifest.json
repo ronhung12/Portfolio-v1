@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.31058505.chunk.css",
+    "main.js": "/static/js/main.8826dae7.chunk.js",
+    "main.js.map": "/static/js/main.8826dae7.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.810608e3.chunk.js": "/static/js/2.810608e3.chunk.js",
+    "static/js/2.810608e3.chunk.js.map": "/static/js/2.810608e3.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.51fca53e4df25a8aa0a51c89e311d134.js": "/precache-manifest.51fca53e4df25a8aa0a51c89e311d134.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.31058505.chunk.css.map": "/static/css/main.31058505.chunk.css.map",
+    "static/media/basketball.jpg": "/static/media/basketball.88733c38.jpg",
+    "static/media/fishing.jpg": "/static/media/fishing.1c0cc418.jpg",
+    "static/media/graduation1.jpg": "/static/media/graduation1.f0f24e60.jpg",
+    "static/media/portfolio_headshot.jpg": "/static/media/portfolio_headshot.745798d0.jpg",
+    "static/media/snowboarding.jpg": "/static/media/snowboarding.2c8fb4b8.jpg"
+  }
+}
