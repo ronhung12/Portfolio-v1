@@ -1,0 +1,11 @@
+title: Ronald Hung's Portfolio
+description: A personal portfolio site that has relevant information, resume, and projects of Ronald
+author: Ronald Hung
+social:
+  name: Ronald Hung
+  links: https://ronhung12.github.io/
+  links: https://www.instagram.com/ron.sauce/
+  links: https://www.linkedin.com/in/ron-h-33934a92/
+
+plugins:
+  - jekyll-seo-tag
